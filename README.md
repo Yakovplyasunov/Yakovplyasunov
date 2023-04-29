@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yakovplyasunov
 - 👀 I’m interested in ...Python
-- 🌱 I’m currently learning ...GPTchat
-- 💞️ I’m looking to collaborate on ...GPTchat
+- 🌱 I’m currently learning ...Python
+- 💞️ I’m looking to collaborate on ...Python
 - 📫 How to reach me ...
 
 <!---
